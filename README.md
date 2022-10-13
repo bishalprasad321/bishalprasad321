@@ -2,10 +2,13 @@
 
 <h3 align = 'center'>NATIVE Android Developer</h3>
 
-- 🌱 I’m currently learning Android Full Stack Development
+- 🌱 I’m currently learning Android & Web Full Stack Development
+
 - 👯 I’m looking to collaborate on Native Android Projects
-- 📫 How to reach me: bishalprasad321@gmail.com
+
 - ⚡ Fun fact: If you want to learn other programming languages, avoid choosing PYTHON as your 1st
+
+- ⚡ Solved 150+ problems on Leetcode & GFG Practice
 
 <br>
 <br>

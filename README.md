@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Native Android Projects
 
-- ⚡ Fun fact: If you want to learn other programming languages, avoid choosing PYTHON as your 1st
+- ⚡ Fun fact: If you want to learn different programming languages, avoid choosing PYTHON as your 1st
 
 - ⚡ Solved 300+ problems on **Leetcode & GFG Practice**
 

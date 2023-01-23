@@ -1,10 +1,10 @@
 <h1 align ='center'>Hi 👋 I'm Bishal Prasad</h1></p>
 
-<h3 align = 'center'>NATIVE Android Developer</h3>
+<h3 align = 'center'>NATIVE Android | Flutter Developer</h3>
 
-- 🌱 I’m currently learning Android & Web Full Stack Development
+- 🌱 I’m currently learning Android, Flutter & Web Full Stack Development
 
-- 👯 I’m looking to collaborate on Native Android Projects
+- 👯 I’m looking to collaborate on Native Android and FLutter Projects
 
 - ⚡ Fun fact: If you want to learn different programming languages, avoid choosing PYTHON as your 1st
 

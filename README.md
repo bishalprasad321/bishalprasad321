@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: If you want to learn different programming languages, avoid choosing PYTHON as your 1st
 
-- ⚡ Solved 300+ problems on **Leetcode & GFG Practice**
+- ⚡ Solved 450+ problems on **Leetcode & GFG Practice**
 
 <br>
 <br>

@@ -2,13 +2,13 @@
 
 <h3 align = 'center'>NATIVE Android | Flutter Developer</h3>
 
-- 🌱 I’m currently learning Android, Flutter & Web Full Stack Development
+- 🌱 I’m currently working as **Ansible Developer** backed with **Devops** Skillset
 
-- 👯 I’m looking to collaborate on Native Android and FLutter Projects
+- 👯 I’ve experience in Native Android Development
 
 - ⚡ Fun fact: If you want to learn different programming languages, avoid choosing PYTHON as your 1st
 
-- ⚡ Solved 450+ problems on **Leetcode & GFG Practice**
+- ⚡ Grinding DSA with 650+ problems solved on **Leetcode**
 
 <br>
 <br>

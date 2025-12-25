@@ -1,10 +1,8 @@
 <h1 align ='center'>Hi 👋 I'm Bishal Prasad</h1></p>
 
-<h3 align = 'center'>NATIVE Android | Flutter Developer</h3>
+<h3 align = 'center'>Software Engineer</h3>
 
-- 🌱 I’m currently working as **Ansible Developer** backed with **Devops** Skillset
-
-- 👯 I’ve experience in Native Android Development
+- 🌱 I’m currently working as **DevOps Engineer**
 
 - ⚡ Fun fact: If you want to learn different programming languages, avoid choosing PYTHON as your 1st
 
